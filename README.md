@@ -1,0 +1,1 @@
+mingw-and-ndk
